@@ -4,6 +4,8 @@
   <img src="/frontend/public/Banner.png" alt="App Banner"/>
 </p>
 
+---
+
 A clean and efficient **Task Management Application** built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
 Create, manage, update, and organize your tasks with ease!
 
