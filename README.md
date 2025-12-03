@@ -4,23 +4,14 @@
   <img src="/frontend/public/Banner.png" alt="App Banner"/>
 </p>
 
-<<<<<<< HEAD
 A clean and efficient **Task Management Application** built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
 Create, manage, update, and organize your tasks with ease!
-=======
-## 🚀 Live Demo
-Visit the live deployed version of the project here:
-
-👉 **https://think-n-do.onrender.com/**
-
-
->>>>>>> 681109b79344e9f1596ce116cd7a34c57d073acc
 
 ---
 
-## 🚀 Live Demo  
+## 🚀 Live Demo
 
-Experience the live app here:
+Visit the live deployed version of the project here:
 
 👉 **https://think-n-do.onrender.com/**
 
@@ -45,7 +36,7 @@ Experience the live app here:
 - React.js  
 - React Router  
 - Axios  
-- TailwindCSS / CSS  DaisyUI
+- TailwindCSS / CSS / DaisyUI
 
 ### **Backend**
 - Node.js  
