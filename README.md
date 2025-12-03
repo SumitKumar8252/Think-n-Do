@@ -4,6 +4,8 @@
 
 
 - Full-Stack App Built with the MERN Stack (MongoDB, Express, React, Node)
+- Fully responsive (Daisy UI Tailwind)
+- 
 
 
 <!-- 
