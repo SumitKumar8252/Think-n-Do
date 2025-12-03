@@ -1,12 +1,49 @@
 <h1 align="center">📝 MERN Stack Think-n-Do App ✨</h1>
 
-![Demo App](/frontend/public/Banner.png)
+<p align="center">
+  <img src="/frontend/public/Banner.png" alt="App Banner"/>
+</p>
 
+A clean and efficient **Task Management Application** built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
+Create, manage, update, and organize your tasks with ease!
 
-- Full-Stack App Built with the MERN Stack (MongoDB, Express, React, Node)
-- Fully responsive (Daisy UI Tailwind)
-- 
+---
 
+## 🚀 Live Demo  
+
+Experience the live app here:
+
+👉 **https://think-n-do.onrender.com/**
+
+---
+
+## ⭐ Features
+
+- ➕ **Create Tasks**  
+- 📄 **Read Tasks**  
+- ✏️ **Update Tasks**  
+- 🗑️ **Delete Tasks**  
+- 🎨 **Responsive UI** using React  
+- 🌐 **RESTful API** with Node & Express  
+- 🗄️ **MongoDB Database**  
+- ⚡ **Full MERN Stack Integration**
+
+---
+
+## 🏗️ Tech Stack
+
+### **Frontend**
+- React.js  
+- React Router  
+- Axios  
+- TailwindCSS / CSS  DaisyUI
+
+### **Backend**
+- Node.js  
+- Express.js  
+- MongoDB + Mongoose  
+
+---
 
 <!-- 
 ## 🔧 Run the Backend
