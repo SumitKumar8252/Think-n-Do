@@ -6,7 +6,7 @@
 - Full-Stack App Built with the MERN Stack (MongoDB, Express, React, Node)
 
 
-
+<!-- 
 ## 🔧 Run the Backend
 
 ```
@@ -21,4 +21,4 @@ npm run dev
 cd frontend
 npm install
 npm run dev
-```
+``` -->
