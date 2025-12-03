@@ -2,6 +2,12 @@
 
 ![Demo App](/frontend/public/Banner.png)
 
+## 🚀 Live Demo
+Visit the live deployed version of the project here:
+
+👉 **https://think-n-do.onrender.com/**
+
+
 
 - Full-Stack App Built with the MERN Stack (MongoDB, Express, React, Node)
 
