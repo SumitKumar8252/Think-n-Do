@@ -6,6 +6,8 @@
 
 ---
 
+## About
+
 A clean and efficient **Task Management Application** built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
 Create, manage, update, and organize your tasks with ease!
 
